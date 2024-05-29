@@ -7,3 +7,4 @@ def get_keyboard_inline():
     but_inline2 = InlineKeyboardButton('Посмотреть',url='https://www.purina.ru/cats/breed-library?ysclid=lwowj1j2xc986344276')
     Keyboard_inline.add(but_inline, but_inline2)
     return Keyboard_inline
+
